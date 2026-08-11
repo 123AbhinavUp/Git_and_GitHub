@@ -1,0 +1,17 @@
+git init
+git status
+git remote -v
+git add <file_name>
+git commit -m "Any text"
+git push
+git pull 
+git fetch
+git clone
+git reset --hard origin/main
+git restore <file_name>
+git checkout -b <branch_name>
+git checkout <branch_name>
+git branch <branch_name>
+git switch <branch_name>
+git branch
+git log
