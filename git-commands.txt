@@ -16,3 +16,4 @@ git switch <branch_name>
 git branch
 git log
 git remote set-url origin <URL>
+git rebase origin <repo>(i.e main or any branch)
