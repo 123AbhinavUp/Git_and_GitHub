@@ -17,3 +17,4 @@ git branch
 git log
 git remote set-url origin <URL>
 git rebase origin <repo>(i.e main or any branch)
+git init --bare (it will act as central repo in local from where u can pull and push the code)
