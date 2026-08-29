@@ -19,3 +19,8 @@ git remote set-url origin <URL>
 git rebase origin <repo>(i.e main or any branch)
 git init --bare (it will act as central repo in local from where u can pull and push the code)
 git log --oneline (it will provide you the important info only)
+<<<<<<< Updated upstream
+git stash pop
+=======
+git stash
+>>>>>>> Stashed changes
